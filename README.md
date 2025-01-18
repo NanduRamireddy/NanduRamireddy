@@ -50,11 +50,11 @@
 
 ![Snake animation](https://github.com/sj0605-datasci/sj0605-datasci/blob/output/github-contribution-grid-snake.svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh-sadupalli&show_icons=true&locale=en&layout=compact" alt="mahesh-sadupalli" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NanduRamireddy&show_icons=true&locale=en&layout=compact" alt="NanduRamireddy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh-sadupalli&show_icons=true&locale=en" alt="mahesh-sadupalli" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NanduRamireddy&show_icons=true&locale=en" alt="NanduRamireddy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh-sadupalli&" alt="mahesh-sadupalli" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NanduRamireddy&" alt="NanduRamireddy" /></p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
